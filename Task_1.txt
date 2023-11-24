@@ -1,0 +1,14 @@
+
+Version control, also known as source control or revision control, is a system that manages changes to a collection of files over time. Its primary purpose is to track modifications to code and other project files, allowing multiple contributors to work collaboratively on a software development project. 
+
+Importent---
+1)History and Auditing:
+Version control systems (VCS) keep a detailed history of changes made to the codebase. This history includes information about who made the changes, when they were made, and what specific changes were implemented. 
+2)Collaboration:
+In a collaborative software development environment, multiple developers may be working on the same project simultaneously. Version control allows these developers to work independently on different aspects of the codebase, and later merge their changes seamlessly. 
+3)Branching and Merging:
+Version control systems support branching, allowing developers to create separate lines of development. 
+4)Risk Mitigation:
+By maintaining a history of changes, version control systems provide a safety net. If an error is introduced or an undesirable change is made, developers can easily roll back to a previous, stable state. 
+6)Continuous Integration:
+Version control is essential for implementing continuous integration (CI) and continuous delivery (CD) practices.
